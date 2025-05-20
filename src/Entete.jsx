@@ -6,7 +6,7 @@ function Entete() {
       <h1 color>Bienvenue sur mon site !</h1>
       <nav>
         <ul>
-          <li><a href="/">Accueil</a></li>
+          <li><a href="/">A</a></li>
           <li><a href="/">À propos</a></li>
           <li><a href="/">Contact</a></li>
         </ul>
